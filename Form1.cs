@@ -1,8 +1,8 @@
 namespace AplicacionGato
 {
-    public partial class Form1 : Form
+    public partial class frmcvja : Form
     {
-        public Form1()
+        public frmcvja()
         {
             InitializeComponent();
         }

@@ -1,6 +1,6 @@
 ﻿namespace AplicacionGato
 {
-    partial class Form1
+    partial class frmcvja
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,119 +28,149 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
-            this.button7 = new System.Windows.Forms.Button();
-            this.button8 = new System.Windows.Forms.Button();
-            this.button9 = new System.Windows.Forms.Button();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmcvja));
+            this.btncvja1 = new System.Windows.Forms.Button();
+            this.btncvja2 = new System.Windows.Forms.Button();
+            this.btncvja3 = new System.Windows.Forms.Button();
+            this.btncvja4 = new System.Windows.Forms.Button();
+            this.btncvja5 = new System.Windows.Forms.Button();
+            this.btncvja6 = new System.Windows.Forms.Button();
+            this.btncvja7 = new System.Windows.Forms.Button();
+            this.btncvja8 = new System.Windows.Forms.Button();
+            this.btncvja9 = new System.Windows.Forms.Button();
+            this.lblcvja = new System.Windows.Forms.Label();
+            this.lblcvja2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // button1
+            // btncvja1
             // 
-            this.button1.Location = new System.Drawing.Point(180, 12);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(105, 100);
-            this.button1.TabIndex = 0;
-            this.button1.UseVisualStyleBackColor = true;
+            this.btncvja1.Location = new System.Drawing.Point(180, 12);
+            this.btncvja1.Name = "btncvja1";
+            this.btncvja1.Size = new System.Drawing.Size(105, 100);
+            this.btncvja1.TabIndex = 0;
+            this.btncvja1.UseVisualStyleBackColor = true;
             // 
-            // button2
+            // btncvja2
             // 
-            this.button2.Location = new System.Drawing.Point(291, 12);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(105, 100);
-            this.button2.TabIndex = 1;
-            this.button2.UseVisualStyleBackColor = true;
+            this.btncvja2.Location = new System.Drawing.Point(291, 12);
+            this.btncvja2.Name = "btncvja2";
+            this.btncvja2.Size = new System.Drawing.Size(105, 100);
+            this.btncvja2.TabIndex = 1;
+            this.btncvja2.UseVisualStyleBackColor = true;
             // 
-            // button3
+            // btncvja3
             // 
-            this.button3.Location = new System.Drawing.Point(402, 12);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(105, 100);
-            this.button3.TabIndex = 2;
-            this.button3.UseVisualStyleBackColor = true;
+            this.btncvja3.Location = new System.Drawing.Point(402, 12);
+            this.btncvja3.Name = "btncvja3";
+            this.btncvja3.Size = new System.Drawing.Size(105, 100);
+            this.btncvja3.TabIndex = 2;
+            this.btncvja3.UseVisualStyleBackColor = true;
             // 
-            // button4
+            // btncvja4
             // 
-            this.button4.Location = new System.Drawing.Point(180, 118);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(105, 100);
-            this.button4.TabIndex = 3;
-            this.button4.UseVisualStyleBackColor = true;
+            this.btncvja4.Location = new System.Drawing.Point(180, 118);
+            this.btncvja4.Name = "btncvja4";
+            this.btncvja4.Size = new System.Drawing.Size(105, 100);
+            this.btncvja4.TabIndex = 3;
+            this.btncvja4.UseVisualStyleBackColor = true;
             // 
-            // button5
+            // btncvja5
             // 
-            this.button5.Location = new System.Drawing.Point(291, 118);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(105, 100);
-            this.button5.TabIndex = 4;
-            this.button5.UseVisualStyleBackColor = true;
+            this.btncvja5.Location = new System.Drawing.Point(291, 118);
+            this.btncvja5.Name = "btncvja5";
+            this.btncvja5.Size = new System.Drawing.Size(105, 100);
+            this.btncvja5.TabIndex = 4;
+            this.btncvja5.UseVisualStyleBackColor = true;
             // 
-            // button6
+            // btncvja6
             // 
-            this.button6.Location = new System.Drawing.Point(402, 118);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(105, 100);
-            this.button6.TabIndex = 5;
-            this.button6.UseVisualStyleBackColor = true;
+            this.btncvja6.Location = new System.Drawing.Point(402, 118);
+            this.btncvja6.Name = "btncvja6";
+            this.btncvja6.Size = new System.Drawing.Size(105, 100);
+            this.btncvja6.TabIndex = 5;
+            this.btncvja6.UseVisualStyleBackColor = true;
             // 
-            // button7
+            // btncvja7
             // 
-            this.button7.Location = new System.Drawing.Point(180, 224);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(105, 100);
-            this.button7.TabIndex = 6;
-            this.button7.UseVisualStyleBackColor = true;
+            this.btncvja7.Location = new System.Drawing.Point(180, 224);
+            this.btncvja7.Name = "btncvja7";
+            this.btncvja7.Size = new System.Drawing.Size(105, 100);
+            this.btncvja7.TabIndex = 6;
+            this.btncvja7.UseVisualStyleBackColor = true;
             // 
-            // button8
+            // btncvja8
             // 
-            this.button8.Location = new System.Drawing.Point(291, 224);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(105, 100);
-            this.button8.TabIndex = 7;
-            this.button8.UseVisualStyleBackColor = true;
+            this.btncvja8.Location = new System.Drawing.Point(291, 224);
+            this.btncvja8.Name = "btncvja8";
+            this.btncvja8.Size = new System.Drawing.Size(105, 100);
+            this.btncvja8.TabIndex = 7;
+            this.btncvja8.UseVisualStyleBackColor = true;
             // 
-            // button9
+            // btncvja9
             // 
-            this.button9.Location = new System.Drawing.Point(402, 224);
-            this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(105, 100);
-            this.button9.TabIndex = 8;
-            this.button9.UseVisualStyleBackColor = true;
+            this.btncvja9.Location = new System.Drawing.Point(402, 224);
+            this.btncvja9.Name = "btncvja9";
+            this.btncvja9.Size = new System.Drawing.Size(105, 100);
+            this.btncvja9.TabIndex = 8;
+            this.btncvja9.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // lblcvja
+            // 
+            this.lblcvja.AutoSize = true;
+            this.lblcvja.Font = new System.Drawing.Font("Century Gothic", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.lblcvja.Location = new System.Drawing.Point(22, 356);
+            this.lblcvja.Name = "lblcvja";
+            this.lblcvja.Size = new System.Drawing.Size(143, 28);
+            this.lblcvja.TabIndex = 9;
+            this.lblcvja.Text = "Jugador 1: ";
+            // 
+            // lblcvja2
+            // 
+            this.lblcvja2.AutoSize = true;
+            this.lblcvja2.Font = new System.Drawing.Font("Century Gothic", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.lblcvja2.Location = new System.Drawing.Point(448, 356);
+            this.lblcvja2.Name = "lblcvja2";
+            this.lblcvja2.Size = new System.Drawing.Size(143, 28);
+            this.lblcvja2.TabIndex = 10;
+            this.lblcvja2.Text = "Jugador 2: ";
+            // 
+            // frmcvja
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.button9);
-            this.Controls.Add(this.button8);
-            this.Controls.Add(this.button7);
-            this.Controls.Add(this.button6);
-            this.Controls.Add(this.button5);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
-            this.Name = "Form1";
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(712, 447);
+            this.Controls.Add(this.lblcvja2);
+            this.Controls.Add(this.lblcvja);
+            this.Controls.Add(this.btncvja9);
+            this.Controls.Add(this.btncvja8);
+            this.Controls.Add(this.btncvja7);
+            this.Controls.Add(this.btncvja6);
+            this.Controls.Add(this.btncvja5);
+            this.Controls.Add(this.btncvja4);
+            this.Controls.Add(this.btncvja3);
+            this.Controls.Add(this.btncvja2);
+            this.Controls.Add(this.btncvja1);
+            this.Name = "frmcvja";
             this.Text = "Juego Gato";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
 
-        private Button button1;
-        private Button button2;
-        private Button button3;
-        private Button button4;
-        private Button button5;
-        private Button button6;
-        private Button button7;
-        private Button button8;
-        private Button button9;
+        private Button btncvja1;
+        private Button btncvja2;
+        private Button btncvja3;
+        private Button btncvja4;
+        private Button btncvja5;
+        private Button btncvja6;
+        private Button btncvja7;
+        private Button btncvja8;
+        private Button btncvja9;
+        private Label lblcvja;
+        private Label lblcvja2;
     }
 }
